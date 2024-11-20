@@ -1,0 +1,40 @@
+.home-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .home-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  .home-title {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .logout-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .logout-button:hover {
+    background-color: #c82333;
+  }
+  
+  .home-content {
+    padding: 20px;
+    font-size: 18px;
+  }
+  
